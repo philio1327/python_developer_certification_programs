@@ -1,0 +1,2 @@
+INFO:root:Successfully divided 10 by 2 to get 5.0
+ERROR:root:Division by zero attempted!
