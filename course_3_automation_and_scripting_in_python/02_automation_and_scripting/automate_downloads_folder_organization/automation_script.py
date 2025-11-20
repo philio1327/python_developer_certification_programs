@@ -40,5 +40,4 @@ for file in files:
     # Print a confirmation message
     print(f"Moved '{file}' to {directory_month_path}")
 
-# Please be careful to follow instructions on how to run the program; review Step 3.
-# The Run menu or right-click > Run do not work in the simulated environment. You must use the terminal window as directed.
+
