@@ -2,7 +2,8 @@
 # Please be careful to follow instructions on how to run the program; 
 # the Run menu or right-click > Run options do not work in the simulated environment. 
 # Ensure you have run the terminal command to install the correct libraries using pip.
-# You must use the terminal window as directed in Step 3.
+# for this to work, you need to run the html code in a live server. Open VS Code, right click the baseball_stats.html
+# and click Open in Live Server, then run this code using your favourite IDE
 import requests
 from bs4 import BeautifulSoup
 
